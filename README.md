@@ -8,4 +8,5 @@ A Java & OpenGL *.obj file viewer for 3D models with support for:
 - Normals
 - 3 orthogonal viewports
 - 1 perspective viewport
+- Basic camera movement & object transform
 - Smooth (Gouraud) shading
